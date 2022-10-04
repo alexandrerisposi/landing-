@@ -1,0 +1,58 @@
+/* style.css */
+body {
+  font-family: Overpass;
+  color: ##272727;
+  font-size: 18px;
+}
+
+body {
+
+color:black;
+background-color:#D1AA74;
+background-image:url(images/image_de_fond.png);
+margin:40;
+
+}
+
+h1{
+  font-family: 'Dosis', sans-serif;
+}
+
+h2{
+  color: #008020;
+  font-weight: bold;
+  text-decoration: none;
+  transition: .3s;
+
+}
+h3
+a:hover {
+  color: #CE2FAE;
+}/* Write some CSS below */
+
+
+.banner {
+  color: black;
+}
+
+#HISTOIRE{height: 300px; 
+
+}
+
+#alchimie {height: 300px;
+}
+
+.alchimienao {
+text-align: center;
+
+}
+
+.banner2 
+{background-color: ##56C766;
+  }
+
+#logo {height: 200px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
